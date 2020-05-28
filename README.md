@@ -1,30 +1,23 @@
 ![](https://images.cooltext.com/5425672.png)
+![](https://images.cooltext.com/5425674.png)
 
-<div class=''text-justify''>
+![](https://images.cooltext.com/5425675.png)
+![](https://images.cooltext.com/5425676.png)
 
-**TECNOLÓGICO NACIONAL DE MÉXICO**
+![](https://images.cooltext.com/5425677.png)
 
-**INSTITUTO TECNOLÓGICO DE TIJUANA**   
+![](https://images.cooltext.com/5425679.png)
 
-**DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN**  
 
-**Ing. Sistemas Computacionales**
+![](https://images.cooltext.com/5425680.png)
 
-**Semestre Enero-Junio 2020**
+![](https://images.cooltext.com/5425682.png)
 
-Proyecto Final
+![](https://images.cooltext.com/5425683.png)
 
-Interfaz de Cuerpo Conectado
+![](https://images.cooltext.com/5425685.png)
 
-Cerón Uribe Arturo				17211506
-
-Monroy Lopez Ariel Alejandro		17212158
-
-Ontiveros Lara Claudia Sarahi		17212167
-
-Olivas Calderon Cinthia Guadalupe  	17212165
-
-Alexis Gonzalez Ochoa 
+![](https://images.cooltext.com/5425688.png)
 
 
 </div>  
