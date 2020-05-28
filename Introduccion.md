@@ -5,4 +5,4 @@ En los recientes años, muchos estudios enfocados en diseño de sensores en la T
 
 [<- Portada](README.md)
 ||||
-[Hardware - Componentes ->]()
+[Hardware - Componentes ->](Hardware.md)
