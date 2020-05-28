@@ -23,4 +23,4 @@ La cantidad de líneas de control que debe de tener el multiplexor depende del n
 
 [<- Portada](README.md)
 ||||
-[Funcionamiento de Software](Software.md)
+[Funcionamiento de Software ->](Software.md)
