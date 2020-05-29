@@ -6,4 +6,4 @@ Al final de la investigación realizada, nos dimos cuenta sobre cuánta informac
 
 [<- Portada](README.md)
 ||||
-[Bibliografias ->](Bibliografia.md)
+[Bibliografia ->](Bibliografia.md)
