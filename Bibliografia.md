@@ -4,6 +4,6 @@ Chen, Chuanglu, Li, Zhiqiang, Zhang, Yitao, Zhang, Shaolong, Hou, Jiena, Zhang, 
 
 ![](https://images.cooltext.com/5425703.png)
 
-https://github.com/tectijuana/b22poster-los-colibri/projects/1?fullscreen=true
+[Enlace](https://github.com/tectijuana/b22poster-los-colibri/projects/1?fullscreen=true)
 
 [<- Portada ->](README.md)
